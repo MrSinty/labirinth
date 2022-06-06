@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <path>
+        <start>8 2</start>
+        <cell>5 7</cell>
+        <cell>4 6</cell>
+        <cell>4 5</cell>
+        <cell>4 4</cell>
+        <cell>4 3</cell>
+        <cell>5 2</cell>
+        <cell>6 1</cell>
+        <cell>7 2</cell>
+        <end>4 8</end>
+    </path>
+    <length>10</length>
+    <time>400</time>
+</info>
